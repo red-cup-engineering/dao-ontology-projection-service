@@ -11,5 +11,9 @@
     "json-schema",
     "owl",
     "shacl"
-  ]
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/red-cup-engineering/dao-ontology-projection-service.git"
+  }
 }
